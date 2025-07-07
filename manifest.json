@@ -7,14 +7,14 @@
   "theme_color": "#0d47a1",
   "icons": [
     {
-      "src": "images/icon-192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "images/icon-111x111.avif",
+      "type": "image/avif",
+      "sizes": "111x111"
     },
     {
-      "src": "images/icon-512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "images/icon-222x222.avif",
+      "type": "image/avif",
+      "sizes": "222x222"
     }
   ]
 }
