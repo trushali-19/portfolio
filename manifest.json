@@ -12,9 +12,9 @@
       "sizes": "144x1444"
     },
     {
-      "src": "images/icon-222x222.avif",
-      "type": "image/avif",
-      "sizes": "222x222"
+      "src": "images/icon2.jpg",
+      "type": "image/jpg",
+      "sizes": "145x145"
     }
   ]
 }
